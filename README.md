@@ -7,5 +7,5 @@ __Examples of training and testing the model__<br />
 ### If you want to train model, run:<br />
 sh train_2ds.sh<br />
 
-###If you want to test the trained model, run:<br />
+### If you want to test the trained model, run:<br />
 sh test_2ds.sh
