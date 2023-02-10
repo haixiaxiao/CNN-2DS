@@ -15,3 +15,9 @@ sh test_2ds.sh
 ```
 ## Results
 Using test code, you can obtain the corresponding accuracy, precision, recall, F1 value and confusion matrix. In addition, you can input any new 2DS ice crystal particle observations into test.py for classification, and obtain the predicted category and the corresponding classified folder.
+
+## Citation
+If you find this project useful in your research, please consider cite:
+```
+To be updated...
+```
