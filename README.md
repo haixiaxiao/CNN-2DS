@@ -3,8 +3,8 @@
 - __Shape classification of cloud particles recorded by 2D-S imaging probe using convolutional neural network__<br />
 We proposed a new classification method for 2D-S cloud particle images using a convolutional neural network, called CNN-2DS. It can classify 8 types of ice crystal particles, including linear, sphere, dendrite, aggregate, graupel, plate, donut, and irregular. The results of the experiments show that CNN-2DS can accurately identify cloud particles with an average classification accuracy of 97%.
 
-![Examples][1]
-[1]:https://github.com/haixiaxiao/CNN-2DS/blob/master/img/img1.png
+![Examples](https://github.com/haixiaxiao/CNN-2DS/blob/master/img/img1.png)
+*Example of 2D-S cloud particle images*
 
 ## Getting Started
 __Examples of training and testing the model__<br />
