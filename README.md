@@ -22,5 +22,6 @@ Using test code, you can obtain the corresponding accuracy, precision, recall, F
 ## Citation
 If you find this project useful in your research, please consider cite:
 ```
-To be updated...
+Rong Zhang, Haixia Xiao, Yang Gao, et al (2023). Shape Classification of Cloud Particles Recorded by the 2D-S Imaging Probe Using a Convolutional Neural Network. J. Meteorol. Res., 37(4), 521-535.
+
 ```
